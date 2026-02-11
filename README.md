@@ -46,3 +46,7 @@ The readings are also printed to the **Serial Monitor** for debugging.
 
 ---
 
+<p align="center">
+  <img src="IMG_4783.JPG" width="500"/>
+</p>
+
